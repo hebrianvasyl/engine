@@ -1,0 +1,32 @@
+<div class="contacts">
+    <h2 class="head">Контакты</h2>
+    <p>
+        <strong>Телефоны:</strong><br />
+        0(44)537-02-22,<br />
+        503-80-80,<br />
+        0(800)503-808<br />
+    </p>
+    <p>
+        <strong>График работы Call-центра:</strong><br />
+        Пн-Пт: с 8:00 до 21:00<br />
+        Суббота: с 9:00 до 20:00<br />
+        Воскресенье: с 10:00 до 19:00<br />
+    </p>
+    <p>
+        <strong>График работы выставочного зала</strong><br />
+        Пн-Пт: с 10:00 до 21:00<br />
+        Суббота: с 10:00 до 19:00<br />
+        Воскресенье: с 10:00 до 17:00<br />
+    </p>
+    <p>
+        <strong>Адрес</strong><br />
+        ВНИМАНИЕ! Указано месторасположение выставочного зала.
+        <br />
+        Так как ассортимент очень широк, мы не можем весь его разместить на витринах выставки. Поэтому, желательно согласовывать Ваш визит заранее.
+        <br />
+        Будем рады видеть Вас по адресу: г. Киев, ул. Фрунзе, 40 (вход с ул. Еленовской ).
+    </p>
+    <div class="google-map">
+        <iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.ua/maps/ms?msa=0&amp;msid=207756518382968657248.0004bc9cc7e083f5a533d&amp;ie=UTF8&amp;t=m&amp;ll=48.629292,22.258215&amp;spn=0.006807,0.013733&amp;z=16&amp;iwloc=0004bc9cd9d80418f7876&amp;output=embed"></iframe><br /><small>Просмотреть <a href="http://maps.google.com.ua/maps/ms?msa=0&amp;msid=207756518382968657248.0004bc9cc7e083f5a533d&amp;ie=UTF8&amp;t=m&amp;ll=48.629292,22.258215&amp;spn=0.006807,0.013733&amp;z=16&amp;iwloc=0004bc9cd9d80418f7876&amp;source=embed" style="color:#0000FF;text-align:left">Офис компании "PhotoCamera"</a> на карте большего размера</small>
+    </div>
+</div>

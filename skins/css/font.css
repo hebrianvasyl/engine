@@ -1,0 +1,21 @@
+/* 
+    Document   : font
+    Created on : 24.03.2012, 21:44:16
+    Author     : Вася
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+span.green {
+    color: #2a7428;
+}
+span.blue {
+    color: #4472a5;
+}
+span.red {
+    color: #ec0000;
+}
+
+
+

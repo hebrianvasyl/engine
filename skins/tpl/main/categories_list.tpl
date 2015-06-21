@@ -1,0 +1,1 @@
+<li><a href="<?php echo $tpl_url; ?>"><?php echo $tpl_name; ?></a></li>
